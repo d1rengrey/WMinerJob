@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WMinerJob">
+    <output-path>$USER_HOME$/Desktop/PyProjects/AutoUploader/upload</output-path>
+    <root id="archive" name="WMinerJob.jar">
+      <element id="module-output" name="WMinerJob" />
+    </root>
+  </artifact>
+</component>

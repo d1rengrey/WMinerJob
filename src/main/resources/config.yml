@@ -1,0 +1,7 @@
+blocks:
+  COAL_ORE:
+    cost: 1
+    delay: 2
+  DIAMOND_ORE:
+    cost: 2
+    delay: 3
