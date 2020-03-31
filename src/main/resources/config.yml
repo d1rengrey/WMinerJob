@@ -1,7 +1,17 @@
+settings:
+  pos1: '"[0,0,0]"'
+  pos2: '"[0,0,0]"'
+messages:
+  reward: "§7Your reward equals: §a{cost}$"
+  help:
+    - "§8[ §7WMinerJob create by §dhekura §8]"
+    - "§c/miner§7 - help"
+    - "§c/miner set <pos1/pos2>§7 - set mining area"
+    - "§c/miner reload§7 - reload plugin"
 blocks:
   COAL_ORE:
-    cost: 1
+    cost: 1.2
     delay: 2
   DIAMOND_ORE:
-    cost: 2
+    cost: 2.3
     delay: 3

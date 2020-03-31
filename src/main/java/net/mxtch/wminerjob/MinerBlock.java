@@ -4,14 +4,14 @@ import org.bukkit.Material;
 
 public class MinerBlock {
     private Material material;
-    private int cost;
+    private double cost;
     private int delay;
 
     public Material getMaterial() {
         return material;
     }
 
-    public long getCost() {
+    public double getCost() {
         return cost;
     }
 
@@ -26,7 +26,7 @@ public class MinerBlock {
             this.minerBlock = new MinerBlock();
         }
 
-        public Builder setCost(int cost){
+        public Builder setCost(double cost){
             this.minerBlock.cost = cost;
             return this;
         }
