@@ -1,13 +1,11 @@
-package net.mxtch.wminerjob.commands;
+package net.d1rengrey.wminerjob.commands;
 
-import net.mxtch.wminerjob.Core;
+import net.d1rengrey.wminerjob.Core;
 import org.bukkit.Location;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
-
-import java.util.Arrays;
 
 public class MinerCommand implements CommandExecutor {
     private Core core;

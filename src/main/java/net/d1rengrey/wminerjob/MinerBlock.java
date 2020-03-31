@@ -1,4 +1,4 @@
-package net.mxtch.wminerjob;
+package net.d1rengrey.wminerjob;
 
 import org.bukkit.Material;
 

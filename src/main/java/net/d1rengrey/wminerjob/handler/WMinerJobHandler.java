@@ -1,11 +1,10 @@
-package net.mxtch.wminerjob.handler;
+package net.d1rengrey.wminerjob.handler;
 
+import net.d1rengrey.wminerjob.MinerBlock;
+import net.d1rengrey.wminerjob.utils.AreaUtils;
 import net.milkbowl.vault.economy.Economy;
-import net.mxtch.wminerjob.Core;
-import net.mxtch.wminerjob.MinerBlock;
-import net.mxtch.wminerjob.utils.AreaUtils;
+import net.d1rengrey.wminerjob.Core;
 import org.bukkit.Bukkit;
-import org.bukkit.ChatColor;
 import org.bukkit.Location;
 import org.bukkit.Material;
 import org.bukkit.block.Block;
@@ -14,7 +13,6 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.block.BlockBreakEvent;
 import org.bukkit.event.block.BlockPlaceEvent;
-import org.bukkit.event.player.PlayerCommandPreprocessEvent;
 import org.bukkit.scheduler.BukkitRunnable;
 
 import java.util.ArrayList;
