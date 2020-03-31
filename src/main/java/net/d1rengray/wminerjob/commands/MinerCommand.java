@@ -1,6 +1,6 @@
-package net.d1rengrey.wminerjob.commands;
+package net.d1rengray.wminerjob.commands;
 
-import net.d1rengrey.wminerjob.Core;
+import net.d1rengray.wminerjob.Core;
 import org.bukkit.Location;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

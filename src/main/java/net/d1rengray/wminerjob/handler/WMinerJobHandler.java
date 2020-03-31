@@ -1,9 +1,9 @@
-package net.d1rengrey.wminerjob.handler;
+package net.d1rengray.wminerjob.handler;
 
-import net.d1rengrey.wminerjob.MinerBlock;
-import net.d1rengrey.wminerjob.utils.AreaUtils;
+import net.d1rengray.wminerjob.Core;
+import net.d1rengray.wminerjob.MinerBlock;
+import net.d1rengray.wminerjob.utils.AreaUtils;
 import net.milkbowl.vault.economy.Economy;
-import net.d1rengrey.wminerjob.Core;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.Material;

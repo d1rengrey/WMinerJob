@@ -1,4 +1,4 @@
-package net.d1rengrey.wminerjob.utils;
+package net.d1rengray.wminerjob.utils;
 
 import org.bukkit.Location;
 

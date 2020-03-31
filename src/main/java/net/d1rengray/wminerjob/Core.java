@@ -1,8 +1,8 @@
-package net.d1rengrey.wminerjob;
+package net.d1rengray.wminerjob;
 
-import net.d1rengrey.wminerjob.commands.MinerCommand;
-import net.d1rengrey.wminerjob.handler.WMinerJobHandler;
+import net.d1rengray.wminerjob.commands.MinerCommand;
 import net.milkbowl.vault.economy.Economy;
+import net.d1rengray.wminerjob.handler.WMinerJobHandler;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.RegisteredServiceProvider;
 import org.bukkit.plugin.java.JavaPlugin;
